@@ -46,5 +46,9 @@
   url = {https://github.com/fuwenju2028/WhitePaper_Materials},
   note = {Version 3.1, includes bilingual technical report and manifesto}
 }
+## Latest Version (v3.0 - April 2026)
+
+- [中文技术报告](v3.0/结构性无理数：技术验证报告.md) | [PDF](v3.0/结构性无理数：技术验证报告.pdf)
+- [English Technical Report](v3.0/Structural%20Irrational%20Numbers%3A%20A%20Technical%20Validation%20Report.md) | [PDF](v3.0/Structural%20Irrational%20Numbers%3A%20A%20Technical%20Validation%20Report.pdf)
 联系
 傅文举: fuwenju@yeah.net
